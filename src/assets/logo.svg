@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="EstateHive logo — modern minimal white">
+  <!-- Icon: honeycomb + home -->
+  <g transform="translate(60,40) scale(2.8)">
+    <!-- Honeycomb Hexagon -->
+    <polygon points="50,10 90,30 90,70 50,90 10,70 10,30" fill="none" stroke="#fff" stroke-width="6" stroke-linejoin="round"/>
+    <!-- House inside hexagon -->
+    <polygon points="25,55 50,35 75,55 75,80 25,80" fill="#fff"/>
+    <rect x="40" y="65" width="10" height="15" fill="#000"/>
+    <rect x="55" y="65" width="10" height="15" fill="#000"/>
+  </g>
+
+  <!-- Text in white -->
+  <text x="360" y="170" font-family="Poppins, Segoe UI, Roboto, Arial, sans-serif"
+        font-weight="700" font-size="90" fill="#fff">EstateHive</text>
+</svg>
